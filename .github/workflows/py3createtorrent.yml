@@ -17,7 +17,7 @@ on:
       file_name:
         description: File name of the file in the torrent
         required: true
-        default: Firefox Setup 95.0.1.exe
+        default: Harry-Potter-and-the-Order-of-the-Phonix_Win_EN_ISO-Version.zip
       piece_size:
         description: Piece Size. Use 0 for automatic calculation, or use the recommended piece size on the README.md file
         required: true
